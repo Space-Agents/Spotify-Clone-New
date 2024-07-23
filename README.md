@@ -17,8 +17,8 @@ Usage Instructions:
  
 2) Navigate to the Project Directory: Use the command cd [project-folder-name] to enter the directory where the project is located.
 
-Open the Project: Locate the index.html file within the project folder. Double-click index.html or right-click and select "Open with" to choose your preferred web browser. Alternatively, you can open the file directly from your browser using File > Open and selecting index.html.
+4) Open the Project: Locate the index.html file within the project folder. Double-click index.html or right-click and select "Open with" to choose your preferred web browser. Alternatively, you can open the file directly from your browser using File > Open and selecting index.html.
 
 3) Explore and Customize: Review the project's structure, including HTML, CSS, and JavaScript files. Make modifications or enhancements as needed to tailor the application to your requirements.
 
-4) Preview Changes: Save any changes made to the files. Refresh your web browser to see the updates in real-time.
+5) Preview Changes: Save any changes made to the files. Refresh your web browser to see the updates in real-time.
